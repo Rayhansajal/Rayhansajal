@@ -1,4 +1,4 @@
-### Hi there, I'm bitue 👋
+### Hi there, I'm Sajal 👋
 
 ## I'm a Learner, Problem Solver, Full Stack Developer !!
 
