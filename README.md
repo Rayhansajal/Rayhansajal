@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Spring WebFlux**
 
-- 👨‍💻 All of my projects are available at [https://sajal-portfolio.pages.dev/](https://sajal-portfolio.pages.dev/)
-
 - 💬 Ask me about **Spring Boot, Spring WebFlux, Java**
-
-- 📫 How to reach me **rayhansajal007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
